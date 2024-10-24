@@ -8,5 +8,5 @@ Runs the app in the development mode.
 
 ### Authors
 ```bash
-Bahruz Aydinli and Murad Narimanli
+Haldun Mammadzada
 ```
